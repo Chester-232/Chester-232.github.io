@@ -54,7 +54,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          TZ: America/Los_Angeles
+          TZ: Asia/Manila
         run: |
           hugo \
             --gc \
@@ -68,7 +68,7 @@ jobs:
   # Deployment job
   deploy:
     environment:
-      name: github-pages
+      name: master
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
