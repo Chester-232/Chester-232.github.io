@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/SamplePage/</loc>
+    <loc>https://chester-232.github.io/SamplePage/</loc>
     <lastmod>2024-11-15T20:47:14+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/SamplePage/post/cann/</loc>
+    <loc>https://chester-232.github.io/SamplePage/post/</loc>
     <lastmod>2024-11-15T20:47:14+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/SamplePage/post/</loc>
-    <lastmod>2024-11-15T20:47:14+08:00</lastmod>
+    <loc>https://chester-232.github.io/SamplePage/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/SamplePage/post/mekimemo/</loc>
-    <lastmod>2024-11-15T19:26:15+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/SamplePage/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/SamplePage/tags/</loc>
+    <loc>https://chester-232.github.io/SamplePage/tags/</loc>
   </url>
 </urlset>
