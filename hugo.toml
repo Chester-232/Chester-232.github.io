@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://chester-232.github.io/SamplePage/'
 languageCode = 'en-us'
 title = 'JDev Blog'
 theme = "mainroad"
