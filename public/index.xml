@@ -2,25 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JDev Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on JDev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2024 20:47:14 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mastering Communication: Tips and Hacks for Real-Life and Online Conversation</title>
-      <link>http://localhost:1313/post/cann/</link>
-      <pubDate>Fri, 15 Nov 2024 20:47:14 +0800</pubDate>
-      <guid>http://localhost:1313/post/cann/</guid>
-      <description>&lt;p&gt;In a world where we&amp;rsquo;re always talking-be it a text, video call, or face-to-face communication it&amp;rsquo;s sometimes easy to forget how to actually connect with others. In class we may present, have an informal conversation with friends, or even send out the occasional DM online, good communication makes the difference. Sometimes it gets tough to maintain the right balance of speaking, listening, and understanding. Here are some simple tips and hacks that would make you a better communicator, in person and online.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Communication in the Modern World</title>
-      <link>http://localhost:1313/post/mekimemo/</link>
-      <pubDate>Fri, 15 Nov 2024 19:26:15 +0800</pubDate>
-      <guid>http://localhost:1313/post/mekimemo/</guid>
-      <description>&lt;p&gt;  In the symphony of human connection, communication stands as the conductor, weaving harmonies and directing the flow of relationships, progress, and understanding. It’s a timeless art, but in our modern world, this art has evolved into a dynamic, multi-faceted dance between tradition and technology. Communication today isn’t just about what we say, it’s about how, when, and where we say it.&lt;/p&gt;&#xA;&lt;p&gt;  Let’s face it, we live in an era of instant everything. The swipe of a finger can connect us to someone halfway across the world, and a single click can send our thoughts into the vast echo chamber of social media. We are the most connected generation in history, yet many argue that we’ve never been more disconnected. The paradox lies not in the tools we use, but in how we use them.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
