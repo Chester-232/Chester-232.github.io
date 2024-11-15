@@ -2,3 +2,9 @@ baseURL = 'https://chester-232.github.io/'
 languageCode = 'en-us'
 title = 'JDev Blog'
 theme = "mainroad"
+
+[markup]
+    tasklist = false
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+             unsafe = true
