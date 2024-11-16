@@ -1,6 +1,6 @@
 baseURL = 'https://chester-232.github.io/'
 languageCode = 'en-us'
-title = 'JDev Blog'
+title = 'JBlog'
 theme = "beautifulhugo"
 # theme = "mainroad"
 
