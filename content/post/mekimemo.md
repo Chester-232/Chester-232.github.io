@@ -1,5 +1,5 @@
 +++
-date = '2024-11-15T19:26:15+08:00'
+date = '2024-11-16T19:26:15+08:00'
 draft = false
 title = 'Communication in the Modern World'
 author = "mekimemo"
