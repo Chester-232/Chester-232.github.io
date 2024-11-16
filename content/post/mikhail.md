@@ -2,6 +2,7 @@
 date = '2024-11-16T22:21:32+08:00'
 draft = false
 title = '10 Effective Communication Skills You Need To Master Today'
+author = 'mikhail'
 +++
 
 Effective communication is key to success in both personal and professional life. In today's fast world, knowing many **communication techniques** is crucial. This article will show you ten important skills to help you communicate clearly and confidently in all areas of your life.
