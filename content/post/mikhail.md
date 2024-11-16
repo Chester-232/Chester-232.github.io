@@ -5,6 +5,7 @@ title = '10 Effective Communication Skills You Need To Master Today'
 +++
 
 Effective communication is key to success in both personal and professional life. In today's fast world, knowing many **communication techniques** is crucial. This article will show you ten important skills to help you communicate clearly and confidently in all areas of your life.
+<img src="/images/mikhail_image1.jpg" alt="image 1">
 
 A vibrant collage depicting various effective communication techniques, featuring abstract representations of listening, body language, eye contact, and empathy; soft color palette with flowing shapes and interconnected elements to symbolize connection and understanding; a harmonious blend of human silhouettes in dynamic postures.
 
@@ -73,6 +74,8 @@ A good presentation starts with a solid structure. It should have a strong openi
 Good public speaking is about connecting with your audience. Use eye contact, vary your voice, and pause to keep them engaged. Ask questions and encourage discussion to make your presentation memorable.
 
 By learning **public speaking techniques**, **presentation skills**, and how to engage your audience, you can improve greatly. This will help you communicate with confidence and leave a lasting impression.
+
+<img src="/images/mikhail_image2.jpg" alt="image 2">
 
 A diverse group of people confidently delivering presentations in various settings, including a corporate boardroom, a classroom, and an outdoor stage. Each speaker uses different techniques, such as body language, eye contact, and gestures, to engage their audience. The background features subtle elements representing communication tools like microphones, projectors, and flip charts. Soft lighting enhances the focus on the speakers, creating an atmosphere of professionalism and inspiration.
 <p style="text-align: center; font-style: italic;">"The art of communication is the language of leadership."</p>
